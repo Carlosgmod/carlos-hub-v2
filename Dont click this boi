@@ -128,14 +128,14 @@ game:GetService("UserInputService").JumpRequest:connect(function()
 end)
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Infinite Jumps and Vape";
-    Text = "Mixed by JN HH Gaming"; -- what the text says (ofc)
+    Title = "pov ur dad";
+    Text = "inf jumo by me boi"; -- what the text says (ofc)
     Duration = 30;
 })
 wait(1)
 game.StarterGui:SetCore("SendNotification", {
     Title = "Enjoy";
-    Text = "Don't Forget to Subscribe JN HH Gaming"; -- what the text says (ofc)
+    Text = "Don't Forget to Subscribe carlos u suck"; -- what the text says (ofc)
     Duration = 30;
 })
 end)
